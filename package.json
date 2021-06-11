@@ -1,0 +1,10 @@
+{
+  "name": "markdown-it-hedgehog",
+  "version": "0.0.1",
+  "description": "perform hedgehog script on the markdown",
+  "main": "index.js",
+  "repository": "https://github.com/Hedgehog-Computing/markdown-it-hedgehog.git",
+  "author": "Roy-Kid <lijichen365@126.com>",
+  "license": "Apache License 2.0",
+  "private": false
+}
